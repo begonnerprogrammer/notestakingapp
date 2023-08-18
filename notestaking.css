@@ -1,7 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&family=Poppins&display=swap');
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
 }
 
 #main {
@@ -9,6 +13,7 @@
     min-height: 100vh;
     padding-bottom: 50px;
     background-color: #81ecec;
+    background: linear-gradient(aqua,yellow);
     display: flex;
     flex-wrap: wrap;
 }
